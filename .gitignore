@@ -1,0 +1,20 @@
+# Tout ignorer par défaut
+*
+
+# Autoriser le .gitignore et les fichiers “standards”
+!.gitignore
+!README*
+!LICENSE*
+
+# Autoriser master_controller (tout le contenu)
+!master_controller/
+!master_controller/**
+
+# Autoriser remote_controller (tout le contenu)
+!remote_controller/
+!remote_controller/**
+
+# Autoriser nextion_f1ssf_rotator (dossier) mais seulement le .HMI
+!nextion_f1ssf_rotator/
+nextion_f1ssf_rotator/*
+!nextion_f1ssf_rotator/f1ssf_nextion_rotator.HMI
