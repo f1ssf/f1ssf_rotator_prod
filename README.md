@@ -1,2 +1,27 @@
 # f1ssf_rotator_prod
-Pilote AZ /EL avec remote
+Il s'agit ici d'un systeme de pilotage site et azimut + 8 relais fonctionnel mais experimental.
+
+Pilotage moteurs rotor en 24V AC 2 phases + 8 relais (module optocouplé tout cablé)
+
+Calibration des rotors facile directement à l'ecran, avec mise en memoire de la calibration.
+
+Je mets aussi en memoire la derniere position connue.
+
+La recopie est analogique. Ce systeme peut s'interfacer avec tous les rotors analogiques connus.
+
+La particularité de ce systeme, c'est qu'il dispose d'un master, et d'un remote au pied du pylone.
+
+J'utilise une liaison RS485 2 fils + 2 fils pour le 24V AC + blindage
+
+Les alimentations continues sont fabriquées au pied du pylone.
+
+Road map du projet:
+
+Dans l'état le projet est fonctionnel, le code peut sans doute être optimisé.
+
+Il reste a implementer: le pilotage par logiciels tiers, la possibilité d'utiliser des capteurs de recopies numeriques.
+
+une fonction Parking, un clavier de saisie AZ/EL, et sans doute plein d'autres choses.....
+
+
+
