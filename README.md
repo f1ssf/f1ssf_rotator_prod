@@ -28,18 +28,17 @@ une fonction Parking, un clavier de saisie AZ/EL, et sans doute plein d'autres c
 <img width="481" height="323" alt="Capture d&#39;écran 2026-02-07 094952" src="https://github.com/user-attachments/assets/e7f969c3-8d6e-46c7-b4d5-b90bf6c786dc" />
 <img width="484" height="321" alt="Capture d&#39;écran 2026-02-07 095042" src="https://github.com/user-attachments/assets/33fdc555-0b07-4dfc-8352-07a69717bf6d" />
 
+MASTER
 
+![3846b2e4-0288-44b1-87a9-b8bb71a1f665](https://github.com/user-attachments/assets/eb99cd7d-696b-4dfb-98a5-288854553967)
 
-![IMG_1225](https://github.com/user-attachments/assets/e7853567-7ce4-4c76-8a01-c11d1d0ea9d0)
+REMOTE
 
-![IMG_1223](https://github.com/user-attachments/assets/24a97807-6fb2-4dd9-94b8-3d62a279c478)
+![a3bb1c07-3af1-4b68-92d7-d347d3149b8a](https://github.com/user-attachments/assets/01fa999d-2f90-477b-acbf-0865334b4727)
 
-![IMG_1222](https://github.com/user-attachments/assets/7ed1d61b-e9e0-48a5-875f-e89143f93bcb)
+RELAIS et ALIMS (Input 24VAC - ouput 5V/12V/ 28DC
 
-![IMG_1221](https://github.com/user-attachments/assets/d9c97201-d056-4729-b146-f7968a162e4d)
-
-
-
-
+![baac3d30-d017-47e9-b751-e947ed9a9ef7](https://github.com/user-attachments/assets/817edeaf-f288-485f-9218-ed1009ed2b54)
+![6307f397-fdf7-4e8c-b24a-9a26c9bd798a](https://github.com/user-attachments/assets/67df2b60-ed98-4d42-8fca-736916dbf203)
 
 
