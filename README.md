@@ -23,6 +23,11 @@ Il reste a implementer: le pilotage par logiciels tiers, la possibilité d'utili
 
 une fonction Parking, un clavier de saisie AZ/EL, et sans doute plein d'autres choses.....
 
+<img width="483" height="322" alt="Capture d&#39;écran 2026-02-07 094934" src="https://github.com/user-attachments/assets/a60b6b28-c40d-4cb2-b5e5-4a2d81750ce3" />
+<img width="482" height="322" alt="Capture d&#39;écran 2026-02-07 095026" src="https://github.com/user-attachments/assets/578bacec-56cc-4a0a-bac1-c3ec7b28ac22" />
+<img width="481" height="323" alt="Capture d&#39;écran 2026-02-07 094952" src="https://github.com/user-attachments/assets/e7f969c3-8d6e-46c7-b4d5-b90bf6c786dc" />
+<img width="484" height="321" alt="Capture d&#39;écran 2026-02-07 095042" src="https://github.com/user-attachments/assets/33fdc555-0b07-4dfc-8352-07a69717bf6d" />
+
 
 
 ![IMG_1225](https://github.com/user-attachments/assets/e7853567-7ce4-4c76-8a01-c11d1d0ea9d0)
