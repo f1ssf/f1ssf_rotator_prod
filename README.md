@@ -42,4 +42,7 @@ RELAIS et ALIMS (Input 24VAC - ouput 5V/12V/ 28DC
 ![baac3d30-d017-47e9-b751-e947ed9a9ef7](https://github.com/user-attachments/assets/817edeaf-f288-485f-9218-ed1009ed2b54)
 ![6307f397-fdf7-4e8c-b24a-9a26c9bd798a](https://github.com/user-attachments/assets/67df2b60-ed98-4d42-8fca-736916dbf203)
 
+SYNOPTIQUE
+
+<img width="600" height="228" alt="Capture d&#39;écran 2026-02-07 115723" src="https://github.com/user-attachments/assets/b1591c80-37b5-4f3b-9a50-c4b063506912" />
 
